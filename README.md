@@ -43,7 +43,7 @@ Alongside my pharmaceutical studies, I am developing my skills in **Python progr
 **Paavai Engineering College, Namakkal**  
 📅 **2025 – Present**
 
-### 📘 Higher Secondary Course (HSC)
+### 📘 Higher Secondary Certificate (HSC)
 
 **Govt. Hr. Sec. School, Kabilarmalai, Namakkal**  
 📅 **2025** | 📊 **68.5%**
