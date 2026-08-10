@@ -1,31 +1,29 @@
-<div align="center">
+<div align="left">
 
-<img src="./Keshika%20Muthusamy2.png" width="190" alt="Keshika Muthusamy">
+<img src="./Keshika%20Muthusamy2.png" width="180" align="left" alt="Keshika Muthusamy">
+
+<br>
 
 # KESHIKA MUTHUSAMY
 
 ### B.Tech Pharmaceutical Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1400&color=8E44AD&center=true&vCenter=true&width=650&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Exploring+Drug+Development;Learning+Python+Programming;Pharmaceutical+Science+%C3%97+Technology" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=19&pause=1200&color=8E44AD&width=600&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Exploring+Drug+Development;Learning+Python+Programming;Pharmaceutical+Science+%C3%97+Technology" alt="Typing Animation">
 
-<br>
+<br clear="left">
 
-🧪 Pharmaceutical Technology &nbsp; • &nbsp;
-🔬 Pharmaceutical Analysis &nbsp; • &nbsp;
-💊 Drug Development &nbsp; • &nbsp;
-💻 Python
+🧪 Pharmaceutical Technology &nbsp; • &nbsp; 🔬 Pharmaceutical Analysis  
+💊 Drug Development &nbsp; • &nbsp; 💻 Python Programming
 
 </div>
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
 I am a **B.Tech Pharmaceutical Technology student** at **Paavai Engineering College, Namakkal**, interested in pharmaceutical product development, drug development, pharmaceutical analysis, and quality control & assurance.
 
-Alongside my pharmaceutical studies, I am developing my skills in **Python programming** and exploring the intersection of **pharmaceutical science and technology**.
-
-My focus is on building strong fundamentals, gaining practical knowledge, and continuously developing skills for a professional career in the pharmaceutical industry.
+Alongside my pharmaceutical studies, I am developing my skills in **Python programming** and exploring the application of technology in pharmaceutical and healthcare domains.
 
 ---
 
@@ -47,16 +45,14 @@ Govt. Hr. Sec. School, Kabilarmalai, Namakkal
 
 ## 🧪 Pharmaceutical Skills
 
-**Pharmaceutical Formulation**  
-**Quality Control & Assurance**  
-**Pharmaceutical Analysis**  
-**Biochemistry & Microbiology**
+- Pharmaceutical Formulation
+- Quality Control & Assurance
+- Pharmaceutical Analysis
+- Biochemistry & Microbiology
 
----
+## 💻 Programming
 
-## 💻 Technology
-
-<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python">
 
 **Python Programming**
 
@@ -74,24 +70,23 @@ Govt. Hr. Sec. School, Kabilarmalai, Namakkal
 
 ## 📚 Currently Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&pause=1200&color=16A085&width=650&lines=Pharmaceutical+Technology;Pharmaceutical+Analysis;Product+Development;Python+Programming;Technology+Applications+in+Healthcare" alt="Learning Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=1000&color=16A085&width=600&lines=Pharmaceutical+Technology;Pharmaceutical+Analysis;Product+Development;Python+Programming;Technology+in+Healthcare" alt="Learning Animation">
 
 ---
 
 ## 🎯 Professional Focus
 
-> **Science → Technology → Innovation**
+**Science → Technology → Innovation**
 
 - Strengthening pharmaceutical knowledge
 - Developing practical technical skills
 - Improving Python programming
 - Exploring technology-driven pharmaceutical applications
 - Building academic and technical projects
-- Preparing for practical industry experience
 
 ---
 
-## 🤝 Strengths
+## 🤝 Soft Skills
 
 **Observation** · **Decision Making** · **Communication** · **Multi-tasking**
 
@@ -107,18 +102,14 @@ Govt. Hr. Sec. School, Kabilarmalai, Namakkal
 
 ## 📫 Contact
 
-**Email:** [keshikamuthusamy@gmail.com](mailto:keshikamuthusamy@gmail.com)
+📧 **keshikamuthusamy@gmail.com**
 
-**GitHub:** [KeshikaMuthusamy](https://github.com/KeshikaMuthusamy)
+🐙 **github.com/KeshikaMuthusamy**
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&pause=1500&color=8E44AD&center=true&vCenter=true&width=600&lines=Learn+%E2%80%A2+Explore+%E2%80%A2+Develop+%E2%80%A2+Grow;Pharmaceutical+Science+%C3%97+Technology;Building+Knowledge+for+the+Future" alt="Footer Animation">
-
-<br>
-
-**🧪 Pharmaceutical Science · 💻 Technology · 🚀 Continuous Learning**
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&pause=1400&color=8E44AD&width=600&lines=Learn+%E2%80%A2+Explore+%E2%80%A2+Develop+%E2%80%A2+Grow;Pharmaceutical+Science+%C3%97+Technology;Building+Knowledge+for+the+Future" alt="Footer Animation">
 
 </div>
