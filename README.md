@@ -1,84 +1,114 @@
-# Keshika Muthusamy
+<!-- ===================== HEADER ===================== -->
 
-### B.Tech Pharmaceutical Technology | Pharmaceutical Technology Student | Python Learner
+<div align="center">
 
-<p align="center">
-  🧪 &nbsp; 💊 &nbsp; 🔬 &nbsp; 🧬 &nbsp; 💻
-</p>
+# 🧪 KESHIKA MUTHUSAMY
 
-<p align="center">
-  <strong>Pharmaceutical Science • Technology • Continuous Learning</strong>
-</p>
+### B.Tech Pharmaceutical Technology
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Python+Learner;Interested+in+Drug+Development;Exploring+Pharmaceutical+Technology+%26+Computing" alt="Typing Animation" />
 
-## About Me
+<br>
 
-I am a **B.Tech Pharmaceutical Technology student** at **Paavai Engineering College, Namakkal**, with an interest in pharmaceutical product development, drug development, pharmaceutical analysis, and quality assurance.
+🧪 **Pharmaceutical Science** &nbsp; • &nbsp;
+💊 **Drug Development** &nbsp; • &nbsp;
+🔬 **Pharmaceutical Analysis** &nbsp; • &nbsp;
+💻 **Python**
 
-Alongside my pharmaceutical studies, I am developing my programming skills in **Python** and exploring the role of technology in pharmaceutical and healthcare applications.
-
-I am focused on building strong technical knowledge, improving practical skills, and continuously learning to prepare for a professional career in the pharmaceutical industry.
+</div>
 
 ---
 
-## Education
+<!-- ===================== ABOUT ===================== -->
 
-### B.Tech – Pharmaceutical Technology
+## 🧬 About Me
+
+I am a **B.Tech Pharmaceutical Technology student** at **Paavai Engineering College, Namakkal**, with an interest in **pharmaceutical product development, drug development, pharmaceutical analysis, and quality control & assurance**.
+
+Alongside my pharmaceutical studies, I am developing my skills in **Python programming** and exploring how technology can support applications in the pharmaceutical and healthcare domains.
+
+> 🧪 *Learning pharmaceutical science*  
+> 💻 *Exploring technology*  
+> 🔬 *Building practical knowledge*  
+> 🚀 *Preparing for the future*
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+## 🎓 Education
+
+### 🧪 B.Tech – Pharmaceutical Technology
 
 **Paavai Engineering College, Namakkal**  
-**2025 – Present**
+📅 **2025 – Present**
 
-### Higher Secondary Course (HSC)
-
-**Govt. Hr. Sec. School, Kabilarmalai, Namakkal**  
-**2025 | 68.5%**
-
-### Secondary School Leaving Certificate (SSLC)
+### 📘 Higher Secondary Course (HSC)
 
 **Govt. Hr. Sec. School, Kabilarmalai, Namakkal**  
-**2023 | 67.8%**
+📅 **2025** | 📊 **68.5%**
+
+### 📗 Secondary School Leaving Certificate (SSLC)
+
+**Govt. Hr. Sec. School, Kabilarmalai, Namakkal**  
+📅 **2023** | 📊 **67.8%**
 
 ---
 
-## Technical Skills
+<!-- ===================== SKILLS ===================== -->
 
-### Pharmaceutical Technology
+## 🛠️ Technical Skills
 
-| Area | Skills |
-|---|---|
-| 💊 Formulation | Pharmaceutical Formulation |
-| 🔬 Quality | Quality Control & Assurance |
-| 🧪 Analysis | Pharmaceutical Analysis |
-| 🧬 Life Sciences | Biochemistry & Microbiology |
+### 💊 Pharmaceutical Technology
 
-### Programming
+<p align="left">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pharmaceutical_Formulation-8E44AD?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Quality_Control_%26_Assurance-3498DB?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pharmaceutical_Analysis-16A085?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Biochemistry_%26_Microbiology-E67E22?style=for-the-badge&logoColor=white" />
+
 </p>
 
+### 💻 Programming
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" width="55" />
+
+</p>
+
+**Python Programming**
+
 ---
 
-## Areas of Interest
+<!-- ===================== INTERESTS ===================== -->
 
-- Pharmaceutical Product Development
-- Drug Development
-- Pharmaceutical Analysis
-- Quality Control & Assurance
-- Pharmaceutical Technology & Computing
+## 🔬 Areas of Interest
+
+| 🧪 Pharmaceutical | 💻 Technology |
+|---|---|
+| Pharmaceutical Product Development | Python Programming |
+| Drug Development | Pharmaceutical Computing |
+| Pharmaceutical Analysis | Healthcare Technology |
+| Quality Control & Assurance | Technology Applications |
 
 ---
 
-## Currently Learning
+<!-- ===================== LEARNING ===================== -->
+
+## 📚 Currently Learning
 
 ```text
-Pharmaceutical Technology
-        ↓
-Pharmaceutical Analysis
-        ↓
-Product Development
-        ↓
-Python Programming
-        ↓
-Technology Applications in Healthcare
+        🧪 Pharmaceutical Technology
+                    ↓
+        🔬 Pharmaceutical Analysis
+                    ↓
+        💊 Product Development
+                    ↓
+        💻 Python Programming
+                    ↓
+        🏥 Technology in Healthcare
