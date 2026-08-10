@@ -1,15 +1,25 @@
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
 # 🧪 KESHIKA MUTHUSAMY
 
 ### B.Tech Pharmaceutical Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=9B59B6&center=true&vCenter=true&width=700&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Learning+Python+Programming;Exploring+Drug+Development;Pharmaceutical+Science+%C3%97+Technology" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Python+Learner;Interested+in+Drug+Development;Exploring+Pharmaceutical+Technology+%26+Computing" alt="Typing Animation" />
+
+<br>
 
 🧪 **Pharmaceutical Science** &nbsp; • &nbsp;
 💊 **Drug Development** &nbsp; • &nbsp;
 🔬 **Pharmaceutical Analysis** &nbsp; • &nbsp;
 💻 **Python**
 
+</div>
+
 ---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## 🧬 About Me
 
@@ -24,6 +34,8 @@ Alongside my pharmaceutical studies, I am developing my skills in **Python progr
 
 ---
 
+<!-- ===================== EDUCATION ===================== -->
+
 ## 🎓 Education
 
 ### 🧪 B.Tech – Pharmaceutical Technology
@@ -31,7 +43,7 @@ Alongside my pharmaceutical studies, I am developing my skills in **Python progr
 **Paavai Engineering College, Namakkal**  
 📅 **2025 – Present**
 
-### 📘 Higher Secondary Certificate (HSC)
+### 📘 Higher Secondary Course (HSC)
 
 **Govt. Hr. Sec. School, Kabilarmalai, Namakkal**  
 📅 **2025** | 📊 **68.5%**
@@ -43,25 +55,42 @@ Alongside my pharmaceutical studies, I am developing my skills in **Python progr
 
 ---
 
+<!-- ===================== SKILLS ===================== -->
+
 ## 🛠️ Technical Skills
 
 ### 💊 Pharmaceutical Technology
 
-- Pharmaceutical Formulation
-- Quality Control & Assurance
-- Pharmaceutical Analysis
-- Biochemistry & Microbiology
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pharmaceutical_Formulation-8E44AD?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Quality_Control_%26_Assurance-3498DB?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pharmaceutical_Analysis-16A085?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Biochemistry_%26_Microbiology-E67E22?style=for-the-badge&logoColor=white" />
+
+</p>
 
 ### 💻 Programming
 
-- Python Programming
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" width="55" />
+
+</p>
+
+**Python Programming**
 
 ---
+
+<!-- ===================== INTERESTS ===================== -->
 
 ## 🔬 Areas of Interest
 
 | 🧪 Pharmaceutical | 💻 Technology |
-|:---|:---|
+|---|---|
 | Pharmaceutical Product Development | Python Programming |
 | Drug Development | Pharmaceutical Computing |
 | Pharmaceutical Analysis | Healthcare Technology |
@@ -69,17 +98,17 @@ Alongside my pharmaceutical studies, I am developing my skills in **Python progr
 
 ---
 
+<!-- ===================== LEARNING ===================== -->
+
 ## 📚 Currently Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&pause=1000&color=16A085&center=true&vCenter=true&width=650&lines=Pharmaceutical+Technology;Pharmaceutical+Analysis;Product+Development;Python+Programming;Technology+Applications+in+Healthcare" alt="Currently Learning">
-
 ```text
-🧪 Pharmaceutical Technology
-            ↓
-🔬 Pharmaceutical Analysis
-            ↓
-💊 Product Development
-            ↓
-💻 Python Programming
-            ↓
-🏥 Technology in Healthcare
+        🧪 Pharmaceutical Technology
+                    ↓
+        🔬 Pharmaceutical Analysis
+                    ↓
+        💊 Product Development
+                    ↓
+        💻 Python Programming
+                    ↓
+        🏥 Technology in Healthcare
