@@ -1,5 +1,24 @@
 <!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img src="./Keshika%20Muthusamy2.png" width="180" alt="Keshika Muthusamy">
+
+# 🧪 KESHIKA MUTHUSAMY
+
+### B.Tech Pharmaceutical Technology
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Pharmaceutical+Technology+Student;Aspiring+Pharmaceutical+Professional;Python+Learner;Interested+in+Drug+Development;Exploring+Pharmaceutical+Technology+%26+Computing" alt="Typing Animation">
+
+<br>
+
+🧪 **Pharmaceutical Science** &nbsp; • &nbsp;
+💊 **Drug Development** &nbsp; • &nbsp;
+🔬 **Pharmaceutical Analysis** &nbsp; • &nbsp;
+💻 **Python**
+
+</div>
+
+---
 <div align="center">
 
 # 🧪 KESHIKA MUTHUSAMY
